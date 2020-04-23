@@ -1,0 +1,13 @@
+Installed react
+use typescript
+Installed semantic ui css framework
+
+src/App.tsx
+    getting data from reactivities asp.net web api
+    show list on ui with semanticui react components
+public/index.html
+    added semantic theme
+
+
+API/Startup.cs 
+    added cors policy
