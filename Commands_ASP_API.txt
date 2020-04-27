@@ -1,2 +1,2 @@
 ﻿dotnet tool install --global dotnet-ef
-dot net ef migrations add InitialCreate -p Persistence/ -s API
+dotnet ef migrations add InitialCreate -p Persistence/ -s API
