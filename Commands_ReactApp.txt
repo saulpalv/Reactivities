@@ -1,6 +1,6 @@
 ﻿use npm install to install everything after clone
 
-npx create-react-app client-app --use-npm --typescript
+npx create-react-app client-app --use-npm --template typescript
 
 Inside that directory, you can run several commands:
 
