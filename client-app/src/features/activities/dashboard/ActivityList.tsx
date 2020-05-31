@@ -4,7 +4,7 @@ import IActivity from '../../../app/models/activity'
 
 interface IProps {
     activities: IActivity[]
-    selectActivity: (id: string) => void;
+    selectActivity: (id: string) => void
 }
 
 
