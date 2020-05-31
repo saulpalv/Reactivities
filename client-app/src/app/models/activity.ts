@@ -1,9 +1,11 @@
-export interface IActivity {
+interface IActivity {
     id: string;
     title: string;
     description: string;
-    categoty: string;
+    category: string;
     date: string;
     city: string;
     venue: string;
 }
+
+export default IActivity;
