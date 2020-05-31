@@ -1,7 +1,5 @@
 import React from 'react';
 import { Menu, Container, Button } from 'semantic-ui-react';
-import src from '*.bmp';
-
 
 const NavBar = () => {
     return (
