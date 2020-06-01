@@ -3,7 +3,7 @@ Write-Host "Starting API Service in " -nonewline; Write-Host $Env:COMPUTERNAME -
 Set-Location API
 $path = Get-Location
 write-host "Project path se to  : " -nonewline; Write-Host $path -f Yellow
-write-host "Starting watch run ...  : " -f Yellow
+write-host "Starting watch run =>  : " -f Yellow
 write-host "-----------------------------"
 write-host `n
 
